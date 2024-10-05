@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "id": "62c7",
+      "firstname": "Ashock ",
+      "lastname": "kumar",
+      "mobile": 9923456787,
+      "mailid": "sara@gmail.com"
+    },
+    {
+      "id": "dfc9",
+      "firstname": "Ajith ",
+      "lastname": "Pandian",
+      "mobile": 9629160122,
+      "mailid": "ajith@gmail.com"
+    },
+    {
+      "id": "f0bc",
+      "firstname": "Ram",
+      "lastname": "Kumar",
+      "mobile": 7766554433,
+      "mailid": "sara@gmail.com"
+    },
+    {
+      "id": "414f",
+      "firstname": "Esakki",
+      "lastname": "arul",
+      "mobile": 9988776655,
+      "mailid": "esakkimuthu9527gmail.com"
+    },
+    {
+      "id": "15e9",
+      "firstname": "bhavam",
+      "lastname": "kalyan",
+      "mobile": 8877665544,
+      "mailid": "sara@gmail.com"
+    },
+    {
+      "id": "a2d9",
+      "firstname": "mari",
+      "lastname": "selvi",
+      "mobile": 9988554433,
+      "mailid": "abs@gmail.com"
+    },
+    {
+      "id": "032d",
+      "firstname": "kmal",
+      "lastname": "hasan",
+      "mobile": 9988776655,
+      "mailid": "kamal@gamail.com"
+    }
+  ]
+}
